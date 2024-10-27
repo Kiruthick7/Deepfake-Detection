@@ -1,1 +1,1 @@
-﻿# Deepfake-Detection-using-Machine-Learning-Algorithms
+﻿# Deepfake Detection using Machine Learning
